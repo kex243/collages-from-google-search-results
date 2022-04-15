@@ -1,0 +1,16 @@
+number_of_images_to_download,10
+number_of_images_to_generate,50
+keywords,nature;sun;ocean
+download_size_MinW,0
+download_size_MinH,0
+download_size_MaxW,9999
+download_size_MaxH,9999
+border_S,5
+cell_W,150
+cell_H,150
+elements,2x1
+columns_H,2
+columns_W,2
+corners,1234
+resize_method,CORRECT
+searching_by_keywords_or_by_images,keywords
